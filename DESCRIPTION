@@ -1,5 +1,5 @@
 Package: juantools
-Title: What the Package Does (One Line, Title Case)
+Title: Useful Helper Functions for Writing (NIST) Reports
 Version: 0.0.0.1
 Authors@R: 
     person(given = "Juan",
@@ -7,9 +7,8 @@ Authors@R:
            role = c("aut", "cre"),
            email = "juan.fung@nist.gov",
            comment = c(ORCID = "0000-0002-0820-787X"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Description: Collection of helper functions that are helpful for writing (NIST) reports.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
