@@ -1,0 +1,16 @@
+Package: juantools
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.1
+Authors@R: 
+    person(given = "Juan",
+           family = "Fung",
+           role = c("aut", "cre"),
+           email = "juan.fung@nist.gov",
+           comment = c(ORCID = "0000-0002-0820-787X"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
